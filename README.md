@@ -1,4 +1,4 @@
-# 🌿 Hey, I’m Kusum Kumari  
+# ✨ Hey, I’m Kusum Kumari  
 
 💡 **What I’m building right now**  
 A warm little corner of the internet — a **mental wellness web app** built with **Django**, **MySQL**, & **ReactJS**. It’s a mix of private journals, community blogs, and gentle digital spaces for self-care. 
