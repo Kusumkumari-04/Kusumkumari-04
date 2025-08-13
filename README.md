@@ -34,7 +34,7 @@ A warm little corner of the internet — a **mental wellness web app** built wit
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusumkumari-04&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusumkumari-04&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kusumkumari-04&theme=radical&border_radius=10)](https://git.io/streak-stats)
+
 
 
 
