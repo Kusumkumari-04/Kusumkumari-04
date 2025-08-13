@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌿 Hey, I’m Kusum Kumari  
 
-<!--
-**Kusumkumari-04/Kusumkumari-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **What I’m building right now**  
+A warm little corner of the internet — a **mental wellness web app** built with **Django**, **MySQL**, & **ReactJS**. It’s a mix of private journals, community blogs, and gentle digital spaces for self-care. 
 
-Here are some ideas to get you started:
+🌱 **Currently learning**  
+- Backend in **Python Django**  
+- Practicing **Data Structures & Algorithms** to sharpen problem-solving skills 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Looking to collaborate on**: Beginner-friendly open-source projects in web dev
+
+📫 **How to reach me**  
+[kusumraigrd@gmail.com](mailto:kusumraigrd@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kusum-07-kumari/)
+
+
+
+
+
